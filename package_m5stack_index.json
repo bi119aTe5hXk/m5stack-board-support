@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "0.0.1",
           "category": "ESP32",
-          "url": "https://github.com/m5stack/m5stack-board-support/blob/master/M5Stack-Core-ESP32-0.0.1.zip",
+          "url": "https://github.com/m5stack/m5stack-board-support/raw/master/M5Stack-Core-ESP32-0.0.1.zip",
           "archiveFileName": "M5Stack-Core-ESP32-0.0.1.zip",
           "checksum": "",
           "size": "30888818",
